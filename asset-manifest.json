@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rosa-recicla/static/css/main.f6a80fc6.css",
-    "main.js": "/rosa-recicla/static/js/main.7059148d.js",
+    "main.css": "/rosa-recicla/static/css/main.c80b7528.css",
+    "main.js": "/rosa-recicla/static/js/main.86c3bc61.js",
     "static/js/787.f7ecc6d3.chunk.js": "/rosa-recicla/static/js/787.f7ecc6d3.chunk.js",
     "index.html": "/rosa-recicla/index.html",
-    "main.f6a80fc6.css.map": "/rosa-recicla/static/css/main.f6a80fc6.css.map",
-    "main.7059148d.js.map": "/rosa-recicla/static/js/main.7059148d.js.map",
+    "main.c80b7528.css.map": "/rosa-recicla/static/css/main.c80b7528.css.map",
+    "main.86c3bc61.js.map": "/rosa-recicla/static/js/main.86c3bc61.js.map",
     "787.f7ecc6d3.chunk.js.map": "/rosa-recicla/static/js/787.f7ecc6d3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6a80fc6.css",
-    "static/js/main.7059148d.js"
+    "static/css/main.c80b7528.css",
+    "static/js/main.86c3bc61.js"
   ]
 }
